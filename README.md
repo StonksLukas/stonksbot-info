@@ -1,3 +1,3 @@
-[Visit the page](https://stonkslukas.github.io/stonksbot-info/)
+[Visit the ToS and Privacy page](https://stonkslukas.github.io/stonksbot-info/)
 
-[Bot invite](https://canary.discord.com/oauth2/authorize?client_id=1474619003011072080)
+[Invite StonksBot to your Server](https://canary.discord.com/oauth2/authorize?client_id=1474619003011072080)
